@@ -16,7 +16,7 @@ visualize(test.table)
 Outputs:
 [Image link](https://imgur.com/a/agiSgM0)
 
-KMEANS()
+KMEANS(dm, K)
 
 Example:
 ```
